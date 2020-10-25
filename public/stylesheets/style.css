@@ -40,7 +40,14 @@ a {
 }
 #footer{
   background-color: #333;
+  height: 50px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
 }
 img{
   max-width:100%;
+}
+.right{
+  text-align: right;
 }
