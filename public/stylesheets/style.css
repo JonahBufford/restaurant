@@ -14,7 +14,9 @@ a {
   text-align: center;
   height: 80px;
 }
-
+h1, h2{
+  text-align: center;
+}
 .nav{
   justify-content:center;
   background-color: #333;
