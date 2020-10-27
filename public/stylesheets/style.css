@@ -69,14 +69,12 @@ img{
   display: block;
 }
 #reviews{
-  border: 2px solid black;
   font-size: 18px;
   margin: auto;
   border-collapse:separate;
   border-spacing: 0 1.5em;
 }
 #reviews td, #reviews th{
-  border: 2px dotted black;
   max-width: 300px;
 }
 
