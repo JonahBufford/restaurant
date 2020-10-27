@@ -68,3 +68,21 @@ img{
   margin: 10px auto;
   display: block;
 }
+#reviews{
+  border: 2px solid black;
+  font-size: 18px;
+  margin: auto;
+  border-collapse:separate;
+  border-spacing: 0 1.5em;
+}
+#reviews td, #reviews th{
+  border: 2px dotted black;
+  max-width: 300px;
+}
+
+#reviews td:last-child{
+  text-align: center;
+}
+#reviews td:first-child{
+  font-style: italic;
+}
